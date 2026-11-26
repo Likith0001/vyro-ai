@@ -1,0 +1,6 @@
+{
+  "name": "VYRO AI",
+  "description": "AI video clipping, highlight detection, and multi-aspect short-form creation platform",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
